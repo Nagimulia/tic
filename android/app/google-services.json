@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8275020186",
+    "project_id": "ticwallpapers",
+    "storage_bucket": "ticwallpapers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8275020186:android:3ae91952c5e852ccb21223",
+        "android_client_info": {
+          "package_name": "com.example.tic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKWWKa0h9eFyxdGbpplBE4WjRVC8cQ4yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
